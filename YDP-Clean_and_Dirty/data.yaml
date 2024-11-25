@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/YDP-Clean_and_Dirty/working/train
+val: /content/drive/MyDrive/YDP-Clean_and_Dirty/working/val
+test: /content/drive/MyDrive/YDP-Clean_and_Dirty/working/test
+names:
+  0: Clean
+  1: Dirty
